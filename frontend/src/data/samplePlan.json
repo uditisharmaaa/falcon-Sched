@@ -1,0 +1,267 @@
+
+{
+  "Year 1": {
+    "Fall": [
+      {
+        "id": "Year 1-Fall-0",
+        "title": "Introduction to Computer Science",
+        "credits": 4,
+        "completed": false,
+        "tag": "Major"
+      },
+      {
+        "id": "Year 1-Fall-1",
+        "title": "Discrete Mathematics",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      },
+      {
+        "id": "Year 1-Fall-2",
+        "title": "Calculus with Applications: Science and Engineering",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      },
+      {
+        "id": "Year 1-Fall-3",
+        "title": "First-year Writing Seminar",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      }
+    ],
+    "Spring": [
+      {
+        "id": "Year 1-Spring-0",
+        "title": "Algorithms",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      },
+      {
+        "id": "Year 1-Spring-1",
+        "title": "Data Structures",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      },
+      {
+        "id": "Year 1-Spring-2",
+        "title": "Core",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      },
+      {
+        "id": "Year 1-Spring-3",
+        "title": "Colloquium",
+        "credits": 4,
+        "completed": false,
+        "tag": "Colloquium"
+      }
+    ]
+  },
+  "Year 2": {
+    "Fall": [
+      {
+        "id": "Year 2-Fall-0",
+        "title": "Computer Systems Organization",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      },
+      {
+        "id": "Year 2-Fall-1",
+        "title": "Computer Science Elective",
+        "credits": 4,
+        "completed": false,
+        "tag": "Major Elective"
+      },
+      {
+        "id": "Year 2-Fall-2",
+        "title": "Minor 1",
+        "credits": 4,
+        "completed": false,
+        "tag": "Minor"
+      },
+      {
+        "id": "Year 2-Fall-3",
+        "title": "Core",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      }
+    ],
+    "Spring": [
+      {
+        "id": "Year 2-Spring-0",
+        "title": "Operating Systems",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      },
+      {
+        "id": "Year 2-Spring-1",
+        "title": "Computer Networks",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      },
+      {
+        "id": "Year 2-Spring-2",
+        "title": "General Elective",
+        "credits": 4,
+        "completed": false,
+        "tag": "Gen Elective"
+      },
+      {
+        "id": "Year 2-Spring-3",
+        "title": "Colloquium",
+        "credits": 4,
+        "completed": false,
+        "tag": "Colloquium"
+      }
+    ]
+  },
+  "Year 3": {
+    "Fall": [
+      {
+        "id": "Year 3-Fall-0",
+        "title": "Computer Science Elective (New York)",
+        "credits": 4,
+        "completed": false,
+        "tag": "Major Elective"
+      },
+      {
+        "id": "Year 3-Fall-1",
+        "title": "General Elective (New York)",
+        "credits": 4,
+        "completed": false,
+        "tag": "Gen Elective"
+      },
+      {
+        "id": "Year 3-Fall-2",
+        "title": "General Elective (New York)",
+        "credits": 4,
+        "completed": false,
+        "tag": "Gen Elective"
+      },
+      {
+        "id": "Year 3-Fall-3",
+        "title": "General Elective (New York)",
+        "credits": 4,
+        "completed": false,
+        "tag": "Gen Elective"
+      }
+    ],
+    "Spring": [
+      {
+        "id": "Year 3-Spring-0",
+        "title": "Software Engineering",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      },
+      {
+        "id": "Year 3-Spring-1",
+        "title": "Research Seminar in Computer Science",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      },
+      {
+        "id": "Year 3-Spring-2",
+        "title": "Minor 2",
+        "credits": 4,
+        "completed": false,
+        "tag": "Minor"
+      },
+      {
+        "id": "Year 3-Spring-3",
+        "title": "Minor 3",
+        "credits": 4,
+        "completed": false,
+        "tag": "Minor"
+      },
+      {
+        "id": "Year 3-Spring-4",
+        "title": "Core",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      }
+    ]
+  },
+  "Year 4": {
+    "Fall": [
+      {
+        "id": "Year 4-Fall-0",
+        "title": "Capstone Project in Computer Science",
+        "credits": 4,
+        "completed": false,
+        "tag": "Capstone"
+      },
+      {
+        "id": "Year 4-Fall-1",
+        "title": "Minor 4",
+        "credits": 4,
+        "completed": false,
+        "tag": "Minor"
+      },
+      {
+        "id": "Year 4-Fall-2",
+        "title": "General Elective",
+        "credits": 4,
+        "completed": false,
+        "tag": "Gen Elective"
+      },
+      {
+        "id": "Year 4-Fall-3",
+        "title": "Core",
+        "credits": 4,
+        "completed": false,
+        "tag": "Core"
+      }
+    ],
+    "Spring": [
+      {
+        "id": "Year 4-Spring-0",
+        "title": "Capstone Project in Computer Science",
+        "credits": 4,
+        "completed": false,
+        "tag": "Capstone"
+      },
+      {
+        "id": "Year 4-Spring-1",
+        "title": "General Elective",
+        "credits": 4,
+        "completed": false,
+        "tag": "Gen Elective"
+      },
+      {
+        "id": "Year 4-Spring-2",
+        "title": "General Elective",
+        "credits": 4,
+        "completed": false,
+        "tag": "Gen Elective"
+      },
+      {
+        "id": "Year 4-Spring-3",
+        "title": "General Elective",
+        "credits": 4,
+        "completed": false,
+        "tag": "Gen Elective"
+      },
+      {
+        "id": "Year 4-Spring-4",
+        "title": "General Elective",
+        "credits": 4,
+        "completed": false,
+        "tag": "Gen Elective"
+      }
+    ]
+  }
+}
+
+

@@ -1,0 +1,22 @@
+{
+    "required_courses": [
+      "Introduction to Computer Science",
+      "Discrete Mathematics",
+      "Data Structures",
+      "Computer Systems Organization",
+      "Algorithms",
+      "Operating Systems",
+      "Computer Networks",
+      "Software Engineering",
+      "Calculus with Applications: Science and Engineering"
+    ],
+    "cs_major_electives": {
+      "count": 2,
+      "label": "Computer Science Elective"
+    },
+    "minor_courses": {
+      "count": 4,
+      "label": "Minor Course"
+    }
+  }
+  
